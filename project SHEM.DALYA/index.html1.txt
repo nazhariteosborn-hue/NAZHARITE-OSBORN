@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<hmtl>
+<head>
+ <title>MATCH STATISTICS</title>
+
+</head>
+
+<body>
+<marquee>
+<h1 style="text-align:center;
+ background-color:blue;
+text-decoration:underline;">
+MATCH STATISTICS</h1>
+</marquee>
+
+<button>register</button>
+<input type="text"="username">
+<br>
+<br>
+
+
+<button>login</button>
+<input type="text"="password">
+
+<h2 style="text-align:center;
+text-decoration:underline;">Advantages of match statistics</h2>
+<ol>1.Data-Drive Tactical adjustments</ol>
+<ol>2.Obective perfomance Evaluation</ol>
+<ol>3.Informed Betting and prediction</ol>
+<ol>4.Enhance fan Engagement</ol> 
+<ol>5.Scouting and Recruitment</ol>
+
